@@ -1,6 +1,6 @@
 # Dimensional Data Modeling with PostgreSQL
 
-Welcome to my repository dedicated to learning and implementing **Dimensional Data Modeling** using PostgreSQL. This project showcases concepts like **cumulative table design**, **Slowly Changing Dimensions (SCD)**, and other advanced data modeling techniques for analytical systems.
+Welcome to my repository dedicated to learning and implementing **Dimensional Data Modeling** using PostgreSQL and Docker. This project showcases concepts like **cumulative table design**, **Slowly Changing Dimensions (SCD)**, and other advanced data modeling techniques for analytical systems.
 
 ---
 
