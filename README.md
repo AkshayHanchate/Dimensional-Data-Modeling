@@ -12,6 +12,4 @@ Welcome to my repository dedicated to learning and implementing **Dimensional Da
   - Support for SCD Type 1, Type 2, and Type 3 with examples.
 - **PostgreSQL-Specific Features**
   - Use of native PostgreSQL features like arrays, enums, and advanced SQL functions.
-- **Data Loading & Transformation**
-  - Scripts for ETL (Extract, Transform, Load) processes.
-  - Use of common table expressions (CTEs) for data transformations.
+
